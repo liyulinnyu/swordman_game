@@ -26,9 +26,42 @@ Player2:<br>
 	 "2" —— Jump(Attached keyboard) <br>
 	 "3" —— Attack(Attached keyboard) <br>
 
-### Initial page
+### Setting
+
+The initial page:
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman1.png)
+
+Use "A" or "D" to move the swordman.(Player1 as an example)
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman2.png)
+
+Use "J" to do attacking action, and the swordman will also move a little bit distance.
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman3.png)
+
+Use "H" to do jumping action
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman4.png)
+
+You can also jump more than once in order to climb the wall.
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman5.png)
+
+When you attack the other swordman, and the other swordman doesn't do attacking action at the same time. <br>
+(1) You kill him and the screen will flashing two times<br>
+(2) The other swordman will go back to the initial position<br>
+(3) The box will show a picture that you need to save<br>
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman6.png)
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman7.png)
+
+When the picture shows, what you need to do is to jump and touch the picture in order to save the girl. After finish that, you will get a gold star, like below. When you get two star, you will win the game! But remember if you were killed, the box will be closed, you should kill the other swordman again!
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman8.png)
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman9.png)
 
 ### Other things
 
