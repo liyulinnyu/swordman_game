@@ -14,14 +14,14 @@ The game address: [Swordman game](https://liyulinnyu.github.io/swordman.html)
 ## How to play?
 
 ### Player button:
-Player1: "A" —— Turn left \n
-	 "D" —— Turn right 
-	 "H" —— Jump
-	 "J" —— Attack
-Player2: "<-" —— Turn Left
-	 "->" —— Turn right
-	 "2" —— Jump(Attached keyboard)
-	 "3" —— Attack(Attached keyboard)
+Player1: "A" —— Turn left <br>
+	 "D" —— Turn right  <br>
+	 "H" —— Jump <br>
+	 "J" —— Attack <br>
+Player2: "<-" —— Turn Left <br>
+	 "->" —— Turn right <br>
+	 "2" —— Jump(Attached keyboard) <br>
+	 "3" —— Attack(Attached keyboard) <br>
 
 ### Initial page
 
