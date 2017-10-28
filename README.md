@@ -14,7 +14,7 @@ The game address: [Swordman game](https://liyulinnyu.github.io/swordman.html)
 ## How to play?
 
 ### Player button:
-Player1: "A" —— Turn left
+Player1: "A" —— Turn left \n
 	 "D" —— Turn right 
 	 "H" —— Jump
 	 "J" —— Attack
