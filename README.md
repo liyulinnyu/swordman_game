@@ -69,7 +69,7 @@ Last thing, if both two swordsman do the attacking action at the same time, nobo
 
 <br>
 <br>
-It's an easy play game but very fun. Hope you and your friends will like it.
+It's an easy play game but very fun. Hope you and your friends like it.
 
 
 ### Other things (Tips)
