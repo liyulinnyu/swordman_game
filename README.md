@@ -63,13 +63,24 @@ When the picture shows, what you need to do is to jump and touch the picture in 
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman9.png)
 
-### Other things
+Last thing, if both two swordsman do the attacking action at the same time, nobody will be killed! 
 
-1. You can see all the past day block without any events will show the deep gray color, today and all the future day block without any events will show the light gray.
+![image](https://github.com/liyulinnyu/Myimg/blob/master/swordman10.png)
 
-2. You can put your mouse on the block, it will show the date. And you can also click it to see the date.
+<br>
+<br>
+It's an easy play game but very fun. Hope you and your friends will like it.
 
-3. You'd better to use this website in PC end. Even though I have done the adaptation of mobile end, because the purpose is to show the whole year's events, it will have a better visual effect in PC end.
+
+### Other things (Tips)
+
+1. When you climb the pillar, click the direction button and attacking button at the same time, the swordman will pass through the pillar like teleporting.
+
+2. It would be better to kill the other swordman near his box so that you can save the girl very quickly.
+
+3. When swordman is jumping in the sky and you click the attacking button at the same time, the swordman will also do the attacking action though it won't show the attacking posture.
+
+4. Do what you want, create what you can create.
 
 
 ### Thank you for reading
@@ -88,5 +99,5 @@ If you want to contact me, please email me: yl4832@nyu.edu
 
 ## Final words
 
-* If you have some advices, please contact me.
+* If you find any bugs or have any advices, please contact me.
 * Have a nice day!
